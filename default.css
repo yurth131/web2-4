@@ -14,7 +14,7 @@ body{background-color=blue;}
  margin-right:30px;
 }
 
-.cat-pit{
+.cat-pit:after{
 content"";
 clear:both;
 display:block;}

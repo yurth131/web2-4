@@ -1,10 +1,43 @@
 body{background-color=blue;}
+
 #main
 {
  width:798px;
  margin:40px auto;
  padding:80px,80px;
- border:greeen 1px solid;
- background-color:red;
+ border:#99FF99 1px solid;
+ background-color:#FF0000;
  }
  
+.cat{
+ float:left;
+ margin-right:30px;
+}
+
+.cat-pit{
+content"";
+clear:both;
+display:block;}
+
+.symbil{
+float:left;
+ width:468px;
+}
+dt{clear:left;
+float:left;
+font-weight:bold;}
+
+.btn{
+-webkit-appearance:none;
+-webkit-border-radius:0;
+margin:5px;
+wieth:200px;
+height:40px;
+padding:40px;
+border:10px;
+font-size:16px
+}
+.btn:hover{opacity:0.5;}
+.btn:active{color:#000000;}
+.btn-submit{background-color:#F0F8FF}
+.btn-rest{background-color:#FFE4C4}

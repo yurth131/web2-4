@@ -15,7 +15,7 @@ body{background-color=blue;}
 }
 
 .cat-pit:after{
-content"";
+content:"";
 clear:both;
 display:block;}
 

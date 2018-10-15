@@ -41,3 +41,21 @@ font-size:16px
 .btn:active{color:#000000;}
 .btn-submit{background-color:#F0F8FF}
 .btn-rest{background-color:#FFE4C4}
+
+#ingre{border:2px solid lightcoral;
+border-collapse:collapse;
+}
+
+th{border:1px solid lightcoral;
+ background-color:#FF0000;
+ width:100px;
+ margin:40px auto;
+ padding:8px;
+ text-align:center;
+}
+
+td{border:1px solid lightcoral;
+ width:80px;
+ margin:40px auto;
+ padding:8px;
+ text-align:right;}
